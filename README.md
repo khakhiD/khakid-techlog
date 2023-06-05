@@ -2,9 +2,9 @@
     <h1 align="center">
         khakid-techlog
     </h1>
+    <image src="./static/profile.png">
     <strong><h3><code>khakidigin-log</code></h3></strong>
     <p>공부한 것들을 정리하는 기술 블로그입니다.</p>
-    <image src="./profile.png">
 </div>
 
 
